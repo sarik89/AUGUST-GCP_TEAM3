@@ -260,6 +260,7 @@ yum install httpd wget unzip epel-release mysql -y
   }
 ```
 
+
 ###
 7. Go Gcloud and check if resources are created properly
 8. Use public IP for the instance and see if you are able to load the wordpress
