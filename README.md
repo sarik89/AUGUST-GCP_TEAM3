@@ -268,6 +268,9 @@ yum install httpd wget unzip epel-release mysql -y
 10. And  your wordpress should be **UP and RUNNING!!!**  
 
 
+## Collaborations: 
+1. Sarvarkhuja Tursinov
+2. Nazerke Baikonak
 
 
 
