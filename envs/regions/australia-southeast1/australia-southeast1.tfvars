@@ -1,3 +1,2 @@
-region = "australia-southeast1" {
-    name = "team3-vpc"
-}
+region = "australia-southeast1" 
+zone = "australia-southeast1-a"

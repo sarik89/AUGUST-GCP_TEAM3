@@ -222,6 +222,7 @@ yum install httpd wget unzip epel-release mysql -y
 ## Collaborations: 
 1. Sarvarkhuja Tursinov
 2. Nazerke Baikonak
+3. Kanykei Rinatova
 
 =======
 >>>>>>> 2c56d4210ec25970936b05178e2f2070ed6854b0
