@@ -236,7 +236,7 @@ yum install httpd wget unzip epel-release mysql -y
   ```
   7. Go Gcloud and check if resources are created properly
 8. Use public IP for the instance and see if you are able to load the wordpress
-9. Use **mysql -u username -h yourip -p team3db** command to connect from your VM machine to your database instance
+9. Use **mysql -u username -h yourip -p db_name_here ** command and provide your db password to connect from your VM machine to your database instance
 10. And  your wordpress should be **UP and RUNNING!!!**  
 
 
