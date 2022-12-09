@@ -244,7 +244,7 @@ yum install httpd wget unzip epel-release mysql -y
 1. Sarvarkhuja Tursinov
 2. Nazerke Baikonak
 3. Kanykei Rinatova
-
+4. Marta Poleshchuk
  
 
 
