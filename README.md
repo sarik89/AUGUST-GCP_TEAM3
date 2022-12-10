@@ -247,5 +247,6 @@ yum install httpd wget unzip epel-release mysql -y
 4. Marta Poleshchuk   
 5. Kateryna Rusnak
 6. Eliza Kanzharbekova
+7.Irina Beridze
 
 
