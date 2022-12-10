@@ -249,5 +249,4 @@ yum install httpd wget unzip epel-release mysql -y
 6. Eliza Kanzharbekova
 7. Irina Beridze
 8. Diana Machkhidze
-
-
+9. Michael Skorob
